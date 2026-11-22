@@ -1,0 +1,225 @@
+body{
+background-color:#f5efe6;
+color:#593f32;
+font-family:Toham;
+text-align: center;
+direction: rtl;
+}
+
+header{
+background-color:#754c38;
+color:white;
+padding: 20px;
+}
+
+header h1{
+font-size:35px;
+
+}
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+}
+
+.banner{
+background-image: url(banner.jpg);
+background-size: cover;
+background-position: center;
+height: 350px;
+color: white;
+padding-top: 100px;
+}
+
+.title{
+color:#754c38;
+margin-top:40px;
+}
+
+.menu-circles{
+display: flex;
+justify-content: center;
+gap: 35px;
+}
+
+.menu-circles img{
+width:130px;
+height: 130px;
+border-radius:50%;
+box-shadow: 5px 5px 12px #a58b73;
+}
+
+.menu-circles p{
+font-weight: bold;
+}
+
+.slogan{
+background-color:#e5d3be;
+padding: 25px;
+margin-top:40px;
+}
+
+table{
+margin:auto;
+border-spacing:25px;
+}
+
+td{
+background-color:#e9dccb;
+padding: 15px;
+box-shadow:5px 5px 12px #a58b73;
+}
+
+td img{
+width: 220px;
+height: 170px;
+border-radius: 15px;
+}
+
+.delivery{
+background-color:#d8c3a5;
+padding:20px;
+margin-top:30px;
+}
+
+.delivery img{
+width:130px;
+height:130px;
+border-radius:50%;
+}
+
+.services{
+display: flex;
+justify-content:center;
+gap:60px;
+}
+
+.services img{
+width:100px;
+height:100px;
+border-radius:50%;
+box-shadow:4px 4px 10px #a58b73;
+}
+
+.contact{
+background-color:#e5d3be;
+padding:25px;
+}
+
+input,textarea{
+width:250px;
+padding:10px;
+}
+
+textarea{
+height:80px;
+}
+
+footer{
+background-color:#754c38;
+color:white;
+padding:20px;
+margin-top:40px;
+}
+
+.coffee-title{
+color:#754c38;
+margin-top: 40px;
+margin-bottom: 25px;
+text-align: center;
+}
+
+.coffee-table{
+margin: auto;
+border-spacing:20px;
+width:85%;
+}
+
+.coffee-table img{
+width:330px;
+height:280;
+border-radius:15px;
+box-shadow:5px 5px 15px #a58b73;
+}
+
+.coffee-text{
+background-color:#754c38;
+color:#f5efe6;
+padding:30px;
+width:400px;
+box-shadow:5px 5px 12px #a58b73;
+border-radius:15px;
+text-align: center;
+}
+
+.coffee-types{
+margin: auto;
+border-spacing: 20px;
+width:90%;
+}
+
+.coffee-types td{
+background-color: #e5d3be;
+color:#593f32;
+padding:20px;
+box-shadow:4px 4px 10px #a58b73;
+border-radius:12px;
+}
+
+body{
+background-color: #593f32;
+}
+
+.menu-banner{
+background-image:url("banner.jpg");
+background-size:cover;
+background-position:center;
+height:230;
+color:white;
+padding-top:60px;
+}
+
+.menu-banner h2{
+font-size:35px;
+}
+
+.menu-title{
+color:#493329;
+margin-top:40px;
+margin-bottom:25px;
+font-size:27px;
+}
+
+.menu-items{
+display:flex;
+justify-content: center;
+gap:25px;
+margin:20px;
+}
+
+.food{
+background-color:#f5efe6;
+width:230px;
+padding:12px;
+box-shadow:4px 4px 12px #8b6b50;
+}
+
+.food img{
+width:210px;
+height:170px;
+}
+
+.food h3{
+color: #754c38;
+}
+
+.food p{
+color:#754c38;
+}
+
+footer{
+background-color:#754c38;
+color:white;
+padding:20px;
+margin-top:45px;
+}

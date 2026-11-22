@@ -1,0 +1,43 @@
+.coffee-title{
+color:#754c38;
+margin-top: 40px;
+margin-bottom: 25px;
+text-align: center;
+}
+
+.coffee-table{
+margin: auto;
+border-spacing:20px;
+width:85%;
+}
+
+.coffee-table img{
+width:330px;
+height:280;
+border-radius:15px;
+box-shadow:5px 5px 15px #a58b73;
+}
+
+.coffee-text{
+background-color:#754c38;
+color:#f5efe6;
+padding:30px;
+width:400px;
+box-shadow:5px 5px 12px #a58b73;
+border-radius:15px;
+text-align: center;
+}
+
+.coffee-types{
+margin: auto;
+border-spacing: 20px;
+width:90%;
+}
+
+.coffee-types td{
+background-color: #e5d3be;
+color:#593f32;
+padding:20px;
+box-shadow:4px 4px 10px #a58b73;
+border-radius:12px;
+}

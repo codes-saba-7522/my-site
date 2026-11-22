@@ -1,0 +1,118 @@
+body{
+background-color:#f5efe6;
+color:#593f32;
+font-family:toham;
+text-align: center;
+direction:rtl;
+}
+
+header{
+background-color:#754c38;
+color:white;
+padding:20px;
+}
+
+header h1{
+font-size: 35px;
+}
+
+nav a{
+color:white;
+text-decoration: none;
+margin:15px;
+}
+
+.banner{
+background-image:url("banner.jpg");
+background-size:cover;
+background-position:center;
+height:350px;
+color:white;
+padding-top:100px;
+}
+
+.contact-title{
+color:#754c38;
+margin-top:40px;
+margin-top:25px;
+}
+
+.order-guide{
+background-color:#e5d3be;
+width:75%;
+margin:auto;
+padding:20px;
+border-radius:12px;
+box-shadow:4px 4px 12px #a58b73;
+line-height:2;
+}
+
+.contact-info{
+display: flex;
+justify-content:center;
+gap:25px;
+}
+
+.contact-info div{
+background-color:#754c38;
+color: #f5efe6;
+width:230px;
+padding:20px;
+border-radius:15px;
+box-shadow:5px 5px 12px #a58b73;
+}
+
+.contact-info h2{
+font-size:35px;
+color:#d8c3a5;
+}
+
+.contact-form{
+background-color:#e5d3be;
+width:55%;
+margin:auto;
+padding:25px;
+border-radius:15px;
+box-shadow:5px 5px 15px #a58b73;
+}
+
+.contact-form h2{
+color:#754c38;
+
+}
+
+input,textarea{
+width:80%;
+padding:12px;
+border:1px solid #a58b73;
+font-family:Toham;
+background-color:#f5efe6;
+color:#593f32;
+}
+
+textarea{
+height: 100px;
+}
+
+input["type=submit"]{
+background-color:#754c38;
+color:white;
+width:150px;
+}
+
+.final-message{
+background-color: #754c38;
+color:#f5efe6;
+margin:40px;
+padding:25px;
+border-radius:15px;
+box-shadow:5px 5px 12px #a58b73;
+
+}
+
+footer{
+background-color:#754c38;
+color:white;
+padding: 20px;
+margin-top:40px;
+}
